@@ -1,5 +1,5 @@
 import Select from "./Select";
-import Header from "./Header/header";
+import Header from "./Header/Header";
 import Footer from "./Footer/footer";
 import Container from "./CONTAINER/container";
 import Logo from "./Footer/logo";
